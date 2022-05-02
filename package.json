@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/AngelJohank/react-logic-blocks/issues"
   },
-  "homepage": "https://github.com/AngelJohank/react-logic-blocks#readme"
+  "homepage": "https://github.com/AngelJohank/react-logic-blocks#readme",
+  "devDependencies": {
+    "react": "^18.1.0",
+    "react-doom": "^1.0.0"
+  }
 }
