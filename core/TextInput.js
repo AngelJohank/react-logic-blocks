@@ -25,4 +25,4 @@ function TextInput({ data, bind, area, otherAttrs }) {
 	return area ? <textarea {...attr} /> : <input type="text" {...attr} />
 }
 
-export default TextInput
+export { TextInput }
