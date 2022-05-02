@@ -4,5 +4,16 @@
   "description": "logic react block components like Svelte",
   "main": "index.js",
   "author": "AngelJohank",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelJohank/react-logic-blocks.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AngelJohank/react-logic-blocks/issues"
+  },
+  "homepage": "https://github.com/AngelJohank/react-logic-blocks#readme"
 }
