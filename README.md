@@ -78,7 +78,8 @@ function App() {
   const [array, setArray] = useState([{name: 'pablo'}, {name: 'ramirez'}, {name: 'fer'}])
 
   return(
-    {/* Default Index uses the item index as a key, if defaultIndex is set to false, the component will search for an id property on each item of the array */}
+    {/* Default Index uses the item index as a key, if defaultIndex is set to false, 
+        the component will search for an id property on each item of the array      */}
       <Each items={array} defaultIndex={true} component={Item} additional={{ /*Other props*/ }} />
    )
 }
