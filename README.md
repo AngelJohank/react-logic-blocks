@@ -2,6 +2,8 @@
 
 Some useful React components that emulate common logical operations that you might use during your development to handle conditional rendering, lists and forms.
 
+Albert Einstein: "Those are called logic-blocks because they make sense XD" 
+
 ------------
 
 ### If block
