@@ -39,7 +39,7 @@ function App() {
   return(
     {/* If you have a string as a State */}
       <TextInput bind={[text, setText]} />
-    {/* If you have an object as a State, data={["propname", object.propname]} */}
+    {/* If you have an object as a State, data={["propname", value]} */}
       <TextInput data={["name", form.name]} bind={[form, setForm]} />
     {/* If you want to change to a textarea field */}
       <TextInput area={true} />
